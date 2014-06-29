@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="shot.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
+    <ClCompile Include="makebmp.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
+    <ClCompile Include="misc_tools.cpp">
+      <Filter>Code</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hooks.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="makebmp.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="misc_tools.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="shot.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="version.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{089fb09c-6050-4ec2-89fc-61c9ce3e048f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Code">
+      <UniqueIdentifier>{8217fea2-d869-4705-9f3a-4aa1cee5b7b8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+*.obj
+*.exe
+*.dll
+*.ilk
+*.pdb
+*.aps
+*.pch
+*.ncb
+*.suo
+*.sdf
+*.user
+*.opensdf
+/Debug
+/Release
+/DDShot/Release
+/DDShot/Debug

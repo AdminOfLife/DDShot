@@ -1,0 +1,1 @@
+This is DDShot, a screenshooter for 256-color DirectDraw games. Press Pause to make a screenshot, and Alt+Pause to dump all DirectDraw surface shots.
